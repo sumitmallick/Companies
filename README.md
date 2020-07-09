@@ -66,10 +66,18 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
+- Author - [Sumit Kumar Mallick](https://sumitmallick.github.io)
 - Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
 
   Nest is [MIT licensed](LICENSE).
+
+## App
+
+1. A user can perform crud operation from companies
+
+## Database
+
+1. Here we have used Postgresql with Typeorm of nestjs
